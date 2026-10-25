@@ -428,6 +428,11 @@ A curated list of interesting and useful AI tools across different categories. E
     <td>Remove unwanted objects from images using AI.</td>
     <td><a href="https://cleanup.pictures/">Link</a></td>
   </tr>
+  <tr>
+    <td><strong>FlashCrafter Growth Brief</strong></td>
+    <td>AI-assisted website, local-market, and competitor assessments for local service businesses. One initial Growth Brief is free; account required, no card required.</td>
+    <td><a href="https://www.flashcrafter.ai/growth-brief">Link</a></td>
+  </tr>
 </table>
 
 
